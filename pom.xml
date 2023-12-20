@@ -4,8 +4,8 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-	<version>9.2.0</version>
-	<name>Java Home myweb</name>
+	<version>10.2.0</version>
+	<name>Java Mindcircuit Home myweb</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
